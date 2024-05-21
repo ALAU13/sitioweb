@@ -20,7 +20,7 @@
         <p>A continuacion, mostraremos los tipos de mascotas que son adecuadas para tener en el hogar</p>
         <table border="2">
             <tr>
-              <td>Perro</td><td><img src="mascotas3.jpeg" alt="mascotas3" width="300"></td>
+              <td>Perro</td><td><img src="mascotas3.jpg" alt="mascotas3" width="300"></td>
             </tr>
             <tr>
               <td>Gato doméstico</td><td><img src="mascotas4.jpg" alt="mascotas4" width="300"></td>
